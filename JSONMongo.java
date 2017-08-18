@@ -5,7 +5,7 @@ import com.mongodb.client.MongoDatabase;
 import org.bson.Document;
 import org.json.JSONObject;
 
-public class TestJsonMongo {
+class TestJsonMongo {
     public static void main(String[] args) throws Exception{
 
         JSONObject jo = new JSONObject();

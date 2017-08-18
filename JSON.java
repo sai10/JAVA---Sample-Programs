@@ -1,6 +1,6 @@
 import org.json.JSONObject;
 
-public class TestJsonMongo {
+class JSON{
     public static void main(String[] args) throws Exception{
 
         JSONObject jo = new JSONObject();
